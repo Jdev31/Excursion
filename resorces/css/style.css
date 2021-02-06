@@ -14,3 +14,8 @@ body {
 .link--header {
     color: aquamarine;
 }
+
+.grey-text {
+    color: grey;
+    font-size: 22px;
+}
